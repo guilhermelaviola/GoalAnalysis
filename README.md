@@ -14,3 +14,9 @@ The dataset has 117 rows at moment (11/28/2023). Each row represents a goal Laut
 9. Which goal
 10. How was it scored
 11. Assist
+
+I added charts to represent the Breakdown of goals by:
+- Competition
+- The way the goal was scored
+- Where it was scored (home or away)
+- Opponent

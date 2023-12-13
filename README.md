@@ -20,3 +20,5 @@ I added charts to represent the Breakdown of goals by:
 - The way the goal was scored
 - Where it was scored (home or away)
 - Opponent
+
+Now I'm working on adding a Bar Chart Animation to this project.

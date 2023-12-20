@@ -22,6 +22,7 @@ I added charts to represent the Breakdown of goals by:
 - Opponent
 - Year
 - Month
+- Half (first or second)
 
 Also, there's a heatmap that shows the correlation between years and months in which the goals were scored in.
 

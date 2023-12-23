@@ -23,6 +23,7 @@ I added charts to represent the Breakdown of goals by:
 - Year
 - Month
 - Half (first or second)
+- Assist from
 
 Also, there's a heatmap that shows the correlation between years and months in which the goals were scored in.
 

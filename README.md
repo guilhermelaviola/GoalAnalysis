@@ -1,19 +1,19 @@
 # LautaroInterGoalsAnalysis
-Analysing goals scored by Lautaro Martínez since when he joined inter in 2018 until now.
+Analysing goals scored by soccer players by both club and national team.
 
-The dataset has 119 rows at moment (12/18/2023). Each row represents a goal Lautaro scored for Inter. And there are 11 columns:
-
+The datasets have the following columns:
 1. Competition
 2. Round
 3. Date
 4. H/A - Home or Away
-5. Against
-6. Final Score
-7. Position
-8. Minute
-9. Which goal
-10. How was it scored
-11. Assist
+5. Club/Team
+6. Against
+7. Final Score
+8. Position
+9. Minute
+10. Which goal
+11. How was it scored
+12. Assist
 
 I added charts to represent the Breakdown of goals by:
 - Competition

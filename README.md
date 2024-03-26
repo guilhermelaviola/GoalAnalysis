@@ -1,4 +1,4 @@
-# LautaroInterGoalsAnalysis
+# GoalsAnalysis
 Analysing goals scored by soccer players by both club and national team.
 
 The datasets have the following columns:

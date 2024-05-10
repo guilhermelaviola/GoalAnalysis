@@ -27,5 +27,5 @@ I added charts to represent the Breakdown of goals by:
 
 Also, there's a heatmap that shows the correlation between years and months in which the goals were scored in.
 
-*Non-Bayern Bundesliga Champions*
+# Non-Bayern Bundesliga Champions
 It's a list of players who won Bundesliga playing for a Bayern Munich rival from the period of 2004-2024. There are cases of players who won it twice for different clubs, and alsio for the same club.

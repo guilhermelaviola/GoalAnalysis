@@ -29,3 +29,6 @@ Also, there's a heatmap that shows the correlation between years and months in w
 
 # Non-Bayern Bundesliga Champions
 It's a list of players who won Bundesliga playing for a Bayern Munich rival from the period of 2004-2024. There are cases of players who won it twice for different clubs, and alsio for the same club.
+
+# BrazilianPlayers
+Analysis of players data and performances based on simple column data and web profile link, with more detailed information.
